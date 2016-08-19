@@ -1,1 +1,1 @@
-![LOLAsistan](logo.png)
+<img src="logo.png"> />
