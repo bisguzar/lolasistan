@@ -4,3 +4,7 @@
 Select your language:
 
 **<a href="https://github.com/bisguzar/lolasistan/wiki/Turkish-(T%C3%BCrk%C3%A7e)">Turkish Document</a>** -|- **<a href="https://github.com/bisguzar/lolasistan/wiki/English">English Document</a>**
+
+<h1>Credits</h1>
+* Bisguzar(me)
+* Bugra Isguzar(me)
