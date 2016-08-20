@@ -1,5 +1,7 @@
-userID 		  = 'lolasistan1' #LoL account's username
-passw		  = 'bisguzar15'  #LoL account's password
+#DUZENLEDIKTEN SONRA ADINI config.py OLARAK DEGISTIRIN!!!!!!!
+
+userID 		  = '' #LoL account's username
+passw		  = ''  #LoL account's password
 
 masterAccounts = ['Bisguzar', 'admin2', 'admin3', 'admin4'] #Enter here admin's username
 
