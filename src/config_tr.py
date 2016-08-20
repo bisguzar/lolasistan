@@ -1,18 +1,15 @@
 #DUZENLEDIKTEN SONRA ADINI config.py OLARAK DEGISTIRIN!!!!!!!
 
-userID 		  = '' #LoL account's username
-passw		  = ''  #LoL account's password
+userID 		  = '' #LoL kullanici adi
+passw		  = ''  #LoL sifresi
 
-masterAccounts = ['Bisguzar', 'admin2', 'admin3', 'admin4'] #Enter here admin's username
+masterAccounts = ['Bisguzar', 'admin2', 'admin3', 'admin4'] #Adminlerin isimlerini girin
 
-addCommPrefix = '!' #Dont change this if 
-					#you no have an idea
-					#PLEASE ENTER ONE CHARACTER!
+addCommPrefix = '!' #eger bilginiz yoksa degistirmeyin!
+		    #sadece tek bir karakter girin!
 
-delCommand    = 'del'#Dont change this if 
-					 #you no have an idea
+delCommand    = 'del'#bilginiz yoksa degistirmeyin!
 
-msgCommand    = 'msg'#Dont change this if 
-					 #you no have an idea
+msgCommand    = 'msg'#bilginiz yoksa degistirmeyin!
 
-language	  = 'tr'#You may use en and tr yet.
+language	  = 'tr'#Suanda tr ve en kullanabilirsiniz.
