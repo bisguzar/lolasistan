@@ -1,3 +1,5 @@
+#RENAME THIS FILE TO config.py AFTER EDIT!!!!!!!1
+
 userID 		  = '' #LoL account's username
 passw		  = ''  #LoL account's password
 
